@@ -20,6 +20,6 @@ Optimizing the app for performance and responsiveness is crucial for delivering 
 
 ## Author
 
-- Website - [Elisabeth Erkekoglou ](https://www.linkedin.com/in/eerkekoglou/)
+- Linkedin - [Elisabeth Erkekoglou ](https://www.linkedin.com/in/eerkekoglou/)
 - Frontend Mentor - [@elic4vet](https://www.frontendmentor.io/profile/elic4vet)
 - Instagram - [@elisa.codes23](https://www.instagram.com/elisa.codes23/)
