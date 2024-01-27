@@ -10,6 +10,7 @@ A first Assignment built with pure HTML only.
 
 https://visionary-trifle-b83c94.netlify.app/
 
+
 ## Optimizations / Future actions
 
 Optimizing the app for performance and responsiveness is crucial for delivering a positive user experience.
@@ -17,6 +18,7 @@ Optimizing the app for performance and responsiveness is crucial for delivering 
 ## Screenshots
 
 ![Screenshot](./links-and-images/images/screenshot.png)
+
 
 ## Author
 
