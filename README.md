@@ -16,7 +16,7 @@ Optimizing the app for performance and responsiveness is crucial for delivering 
 
 ## Screenshots
 
-![App Screenshot](<![Screenshot](image.png)>)
+![Screenshot](./links-and-images/images/screenshot.png)
 
 ## Author
 
