@@ -1,20 +1,24 @@
 # Html Assignment
 
-A first Assignment built with pure HTML only.
+A first Assignment built with vanilla HTML and CSS. The project is a simple landing page with a form and a few sections. The main goal of this project is to practice HTML and CSS and to get familiar with the basics of web development.
 
 ### Built with
 
 - Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- [Google Fonts](https://fonts.google.com/)
 
 ## Live Demo
 
-https://visionary-trifle-b83c94.netlify.app/
-
+[Live Demo Link](https://elic4vet.github.io/html-assignment/)
 
 ## Optimizations / Future actions
 
-Optimizing the app for performance and responsiveness is crucial for delivering a positive user experience.
-
+- Add a responsive navigation bar
+- Add a responsive footer
+ 
 ## Screenshots
 
 ![Screenshot](./links-and-images/images/screenshot.png)
