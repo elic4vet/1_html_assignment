@@ -1,21 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../styles/styles.css">
     <title>About me</title>
   </head>
   <body>
-    <nav>
+    <header class="navigation-header"> 
+      <nav>
+        <div class="logo-container">
+          <a href="./index.html">Logo</a>
+        </div>
+        <div class="navigation-items" id="navigation-items">
+          <a href="../../index.html">Home</a>
+          <a href="">Projects</a>
+          <a href="./contact.html">Contact Me</a>
+        </div>
+        <div class="hamburger">
+          <span id="openHam">&#9776;</span>
+          <span id="closeHam">&#x2716;</span>
+        </div>
+      </nav>
+    </header>
+    <section class="aboutme">
+      <h1>About me</h1>
+      <p>Hi, I am a web developer. I love to code and create websites.
+        I am also a foodie and love to travel. I am a big fan of video games 
+        and I love to play them in my free time.</p>
+      <p>Here are some of my favorite things:</p>
       <ul>
-        <li><a href="./about/foods.html">My favourite food </a></li>
+        <li><a href="#aboutme">My favorite food </a></li>
         <li><a href="./about/list.html">My daily Tasks</a></li>
         <li><a href="./about/travel.html">Places to Visit </a></li>
-        <li><a href="./about/games.html">My favourite games</a></li>
+        <li><a href="./about/games.html">My favorite games</a></li>
       </ul>
-      <p> 
-       <a href="../../index.html"> Back home 🏠 </a> 
-         </p>
-    </nav>
+    </section>
   </body>
 </html>
