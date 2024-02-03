@@ -16,6 +16,7 @@ body {
     background-color: #f4f4f4;
     color: #333;
     min-height: 100vh;
+    font-size: 16px;
 }
 
 ul {
@@ -26,7 +27,7 @@ ul {
 
 a {
     text-decoration: none;
-    color: #333;
+   color: #333;
 }
 
 
@@ -54,11 +55,11 @@ nav {
     width: 80%;
     margin: auto;
     overflow: hidden;
+    padding: 20px 0;
+    border: 1px solid #bcb7b7;
 }
 
 .nav {
-    background: #f4f4f4;
-    color: #333;
     padding: 10px 0;
     text-align: center;
 }
@@ -118,6 +119,48 @@ nav {
     object-fit: cover;
     border-radius: 10px;
     margin-bottom: 20px;
+}
+
+.main-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ 
+    position:absolute;
+    width:780px;
+    height:650px;
+    left:50%;
+    top:50%;
+    transform:translate(-50%,-50%);
+}
+
+.dropdown-content { 
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown .dropbtn {
+  font-size: 17px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
 }
 
 
