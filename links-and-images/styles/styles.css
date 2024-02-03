@@ -74,7 +74,8 @@ nav {
 
 .navigation-items {
   display: flex;
-  gap: 40px;
+  gap:40px;
+  color: white;
 }
 
 
@@ -125,13 +126,13 @@ nav {
     display: flex;
     flex-direction: column;
     align-items: center;
- 
-    position:absolute;
-    width:780px;
-    height:650px;
-    left:50%;
-    top:50%;
-    transform:translate(-50%,-50%);
+}
+
+.aboutme {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
 }
 
 .dropdown-content { 
